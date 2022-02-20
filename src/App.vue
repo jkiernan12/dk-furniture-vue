@@ -2,19 +2,22 @@
   <HeaderSection />
   <SplashSection />
   <PortfolioSection />
+  <AboutSection />
 </template>
 
 <script>
 import HeaderSection from './components/HeaderSection.vue'
 import SplashSection from './components/SplashSection.vue'
 import PortfolioSection from './components/PortfolioSection.vue'
+import AboutSection from './components/AboutSection.vue'
 
 export default {
   name: 'App',
   components: {
     HeaderSection,
     SplashSection,
-    PortfolioSection
+    PortfolioSection,
+    AboutSection
   }
 }
 </script>
