@@ -3,6 +3,7 @@
   <SplashSection />
   <PortfolioSection />
   <AboutSection />
+  <ContactSection />
 </template>
 
 <script>
@@ -10,6 +11,7 @@ import HeaderSection from './components/HeaderSection.vue'
 import SplashSection from './components/SplashSection.vue'
 import PortfolioSection from './components/PortfolioSection.vue'
 import AboutSection from './components/AboutSection.vue'
+import ContactSection from './components/ContactSection.vue'
 
 export default {
   name: 'App',
@@ -17,7 +19,8 @@ export default {
     HeaderSection,
     SplashSection,
     PortfolioSection,
-    AboutSection
+    AboutSection,
+    ContactSection
   }
 }
 </script>
