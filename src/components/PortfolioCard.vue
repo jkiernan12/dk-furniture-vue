@@ -1,7 +1,7 @@
 <template>
   <article>
     <h4>Cube Side Table</h4>
-    <img src="../assets/misc/MiniHall.jpeg" />
+    <img src="../assets/MiniHall.jpeg" />
     <p>The Cube side table is made from beautiful, rich, macassar ebony with black lacquered mahogany legs and aluminum accents. The glass top is 0.375" thick, and rests on the four legs.</p>
   </article>
 </template>

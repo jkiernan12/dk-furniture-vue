@@ -1,7 +1,7 @@
 <template>
   <main>
     <div class="splash-image">
-      <img src="../assets/misc/MiniHall.jpeg" />
+      <img src="../assets/MiniHall.jpeg" />
     </div>
     <div class="splash-text">
       <p>David Kiernan has been making contemporary furniture in his Rhode Island studio since 1993. David, a former engineer, studied woodworking at the Worcester Center for Crafts.</p>

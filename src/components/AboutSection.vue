@@ -3,7 +3,7 @@
     <h3>About</h3>
       <div class="content-container">
       <div class="image">
-        <img src="../assets/misc/MiniHall.jpeg" />
+        <img src="../assets/MiniHall.jpeg" />
       </div>
       <div class="text">
         <p>David Kiernan's studio was established in 1993 immediately on completion of the two-year program he attended at Worcester Center for Crafts, in Worcester, MA. David creates his furniture with the help of one part-time assistant. He does limited production, commission pieces, and a small amount of production work. He works primarily in wood, both solid and veneers, but also uses a variety of other materials as accents - metal being the most common. David's furniture is sold through craft fairs and through craft galleries around the country.
