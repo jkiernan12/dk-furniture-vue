@@ -2,12 +2,11 @@ import { createApp } from 'vue/dist/vue.esm-bundler'
 // import App from './App.vue'
 import {createRouter, createWebHistory} from 'vue-router'
 import MainPage from './components/MainPage.vue'
-
-const Portfolio = { template: '<div>Portfolio will go here</div>' }
+import PortfolioPage from './components/PortfolioPage.vue'
 
 const routes = [
   { path: '/', component: MainPage },
-  { path: '/portfolio', component: Portfolio },
+  { path: '/portfolio', component: PortfolioPage },
 ]
 
 const router = createRouter({

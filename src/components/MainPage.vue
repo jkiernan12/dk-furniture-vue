@@ -1,11 +1,9 @@
 <template>
-<router-view>
   <HeaderSection />
   <SplashSection />
   <PortfolioSection />
   <AboutSection />
   <ContactSection />
-</router-view>
 </template>
 
 <script>

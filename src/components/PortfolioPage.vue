@@ -1,7 +1,7 @@
 <template>
   <section>
     <h3>Portfolio</h3>
-    <router-link to="/portfolio">See all work</router-link>
+    <router-link to="/">Return home</router-link>
     <div class="card-container">
       <PortfolioCard />
       <PortfolioCard />
@@ -15,7 +15,7 @@
 <script>
 import PortfolioCard from './PortfolioCard.vue'
 export default {
-  name: 'PortfolioSection',
+  name: 'PortfolioPage',
   components: {
     PortfolioCard
   }
